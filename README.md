@@ -1,1 +1,1 @@
-# gfg-potd
+# gfg-problem of the solution
